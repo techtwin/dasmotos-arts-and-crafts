@@ -1,8 +1,39 @@
-* {
-  margin: 0;
-  padding: 0;
-}
-
 body {
   font-family: Helvetica;
+}
+
+nav {
+  background: url("images/pattern.webp");
+  text-align: center;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.nav-title {
+  font-size: 100px;
+  color: khaki;
+}
+
+section > h2 {
+  font-size: 32px;
+  color: white;
+}
+
+.brush-title {
+  background-color: mediumspringgreen;
+}
+
+.frame-title {
+  background-color: lightcoral;
+}
+
+.paint-title {
+  background-color: skyblue;
+}
+
+span {
+  font-weight: bold;
+  color: blue;
 }
